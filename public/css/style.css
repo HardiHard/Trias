@@ -1,0 +1,61 @@
+ #uploadprogressbar { 
+     display: none; 
+ }
+ 
+ #progressiFrame {
+     width: 100%;
+     border: 1px;
+     background-color: #f8f8f8;
+    border-right-style: solid;
+    border-left-style: solid;
+    border-bottom-style: solid;
+    border-top-style: solid;
+    border-right-width: 1px;
+    border-left-width: 1px;
+    border-bottom-width: 1px;
+    border-top-width: 1px;
+    border-right-color: #b5b5b5;
+    border-left-color: #b5b5b5;
+    border-bottom-color: #b5b5b5;
+    border-top-color: #b5b5b5;
+}
+
+#templatelistDiv {
+    font-family: Andale Mono, Lucida Console, Monaco, fixed, monospace;
+    color: #000000;
+    background-color: #eeeeee;
+    font-size: 12px;
+    border: 1px dashed #999999;
+    line-height: 14px;
+    padding: 5px;
+    overflow: auto;
+    width: 100%;
+    
+}
+
+.upload-info {
+    font-size: 12px;
+    color:#b5b5b5;
+}
+
+#footer{
+    
+    font-size: 10px;
+    color: #b9b9b9;
+    font-family: Verdana,Arial,Helvetica,sans-serif;
+    border-top-style: dashed;
+    border-top-width: 1px;
+    padding-top: 5px;
+     text-align: right;
+    margin-top: 100px;
+}
+
+#footer a  {
+
+    color: #b9b9b9;
+    text-decoration: none;
+   
+}
+#footer a:hover  {
+    text-decoration: underline;
+}
